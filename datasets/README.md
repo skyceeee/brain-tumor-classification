@@ -12,7 +12,7 @@ This folder contains external links to the datasets used in this project.
 
 ## 📦 Brain_Tumor_Aug_dataset.zip
 - **Contents:** Augmented dataset used for training.
-- **Google Drive Link:** [Download]((https://drive.google.com/file/d/1SiSVQXh2_NkXJaNqJswvHR5gSGE9O6k7/view?usp=sharing)
+- **Google Drive Link:** [Download](https://drive.google.com/file/d/1SiSVQXh2_NkXJaNqJswvHR5gSGE9O6k7/view?usp=sharing)
 
 ---
 
